@@ -18,16 +18,13 @@ O projeto é contemplado por resolver 3 questões da plataforma LeetCode, sendo 
 Para os exercícios serem realizados, usamos o algorito de Dijkstra com heap e o algoritmo de Prim com pequenas modificações, para que pudessem receber o Accept como solução para o desafio.
 
 ## Screenshots
-Questão: [Difícil - 834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/?envType=problem-list-v2&envId=graph)
-![alt text](834.png)
+Questão: [Médio - 1786. Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/submissions/1468806097/)
+![alt text](1786.png)
 
-Questão: [Médio - 2685. Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/description/?envType=problem-list-v2&envId=graph)
-![alt text](2685.png)
+Questão: [Difícil - 1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/submissions/1468806169/?envType=problem-list-v2&envId=strongly-connected-component)
+![alt text](1489.png)
 
-Questão: [Difícil - 2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/?envType=problem-list-v2&envId=graph)
-![alt text](2045.jpg)
-
-Questão: [Médio - 210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/?envType=problem-list-v2&envId=topological-sort)
+Questão: [Difícil - 3123. Find Edges in Shortest Paths](https://leetcode.com/problems/find-edges-in-shortest-paths/submissions/1468809861/?envType=problem-list-v2&envId=graph)
 ![alt text](210.jpg)
 
 
