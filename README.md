@@ -1,7 +1,7 @@
 Temas:
  - Grafos2
  
-# Grafos1_LeetCodeGrafos1
+# Grafos2_LeetCodeGrafos2
 
 **Número da Lista**: 9<br>
 **Conteúdo da Disciplina**: Grafos 2<br>
