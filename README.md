@@ -41,3 +41,6 @@ python3 1489.FindCriticalAndPseudo-CriticalEdgesInMinimumSpanningTree.py
 
 ## Outros
 Desconsiderar a função </br>main()<br> dos arquivos .py ao tentar submeter ao leetcode. Esta função foi implementada apenas com o intuito de testar casos base.
+
+## Vídeo
+https://youtu.be/y7-J1r72nwU
