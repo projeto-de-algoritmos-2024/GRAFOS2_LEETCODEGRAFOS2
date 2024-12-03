@@ -5,10 +5,13 @@ from collections import defaultdict
 class Solution:
     def findAnswer(self, n, edges):
         graph = self.create_graph(edges)
-
         dist_from_start = self.dijkstra(0, n, graph)
         dist_from_end = self.dijkstra(n - 1, n, graph)
+
         shortest_path_length = dist_from_start[n - 1]
+
+        if shortest_path_length == float("inf"):
+            return [False] * len(edges)
 
         return self.find_edges_in_shortest_paths(
             edges, dist_from_start, dist_from_end, shortest_path_length
