@@ -15,9 +15,7 @@ Temas:
 ## Sobre 
 O projeto é contemplado por resolver 3 questões da plataforma LeetCode, sendo 2 dífíceis e 1 médio. A definição de médio, fácil e difícil é concebida pela própria plataforma.
 
-Para os exercícios serem realizados, usamos o algorito de dijkstra com heap e o algoritmo de  com pequenas modificações, para que pudessem receber o Accept como solução para o desafio.
-
-As questões foram escolhidas com base nos algoritmos DFS, BFS e Ordenação Topológica, permitindo o grupo focar apenas nos algoritmos analisados em aula com mínimas adaptações.
+Para os exercícios serem realizados, usamos o algorito de Dijkstra com heap e o algoritmo de Prim com pequenas modificações, para que pudessem receber o Accept como solução para o desafio.
 
 ## Screenshots
 Questão: [Difícil - 834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/?envType=problem-list-v2&envId=graph)
@@ -41,7 +39,7 @@ Instalar uma versão lastest stable do python desde de que seja > 3.11.
 ## Uso 
 Para rodar este projeto, basta entrar na raiz do projeto e executar o arquivo referente a questão que se deseja avaliar, por exemplo:
 ```
-python3 834.SumofDistancesinTree.py
+python3 1489.FindCriticalAndPseudo-CriticalEdgesInMinimumSpanningTree.py
 ```
 
 ## Outros
