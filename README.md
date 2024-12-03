@@ -25,7 +25,7 @@ Questão: [Difícil - 1489. Find Critical and Pseudo-Critical Edges in Minimum S
 ![alt text](1489.png)
 
 Questão: [Difícil - 3123. Find Edges in Shortest Paths](https://leetcode.com/problems/find-edges-in-shortest-paths/submissions/1468809861/?envType=problem-list-v2&envId=graph)
-![alt text](210.jpg)
+![alt text](3123.jpg)
 
 
 ## Instalação 
