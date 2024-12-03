@@ -15,7 +15,7 @@ Temas:
 ## Sobre 
 O projeto é contemplado por resolver 3 questões da plataforma LeetCode, sendo 2 dífíceis e 1 médio. A definição de médio, fácil e difícil é concebida pela própria plataforma.
 
-Para os exercícios serem realizados, usamos o algorito de Dijkstra com heap e o algoritmo de Prim com pequenas modificações, para que pudessem receber o Accept como solução para o desafio.
+Para os exercícios serem realizados, usamos o algorito de Dijkstra com heap e o algoritmo de Prim com pequenas modificações, além da implementação do algoritmo de SCC para que pudessem receber o Accept como solução para o desafio.
 
 ## Screenshots
 Questão: [Médio - 1786. Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/submissions/1468806097/)
